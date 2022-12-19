@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ /* .attribution { font-size: 11px; text-align: center; } */
+ /*    .attribution a { color: hsl(228, 45%, 44%); } */
+
+body {
+  height: 100vh;
+  background: linear-gradient(90deg, hsla(205, 46%, 10%, 1) 0%, hsla(191, 28%, 23%, 1) 50%, hsla(207, 41%, 27%, 1) 100%);
+  color: white;
+  padding: 1rem;
+}
+
